@@ -1,0 +1,57 @@
+body {
+	background-color: black;
+	padding: 130px;
+	font-family: "Indie Flower", cursive;
+}
+
+div {
+	background-color: white;
+}
+
+.postcard {
+	width: 450px;
+	margin: auto;
+	padding: 10px;
+}
+
+.principal {
+	width: 100%;
+	display: flex;
+}
+
+.header {
+	align-items: center;
+}
+
+.main {
+	align-items: baseline;
+}
+
+.title {
+	width: 85%;
+}
+
+.pText {
+	width: 100%;
+	font-size: 20px;
+}
+
+.logo {
+	width: 60px;
+	height: 60px;
+}
+
+.inputForm {
+	border: none;
+	width: 100%;
+	border-bottom: 2px solid black;
+	font-family: "Indie Flower", cursive;
+	font-size: 20px;
+}
+
+#submit {
+	margin: auto;
+	width: auto;
+	font-family: "Indie Flower", cursive;
+	font-size: 20px;
+}
